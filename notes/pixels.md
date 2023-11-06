@@ -12,8 +12,8 @@ Universe = (~510 channels) = 170 pixels
 
 * CPU: **HinksPix Pro V2**
 * Max Number of SPI Output Ports: 3x16 (48)
-* Max Number of Pixels per Port: 680
-* Max Pixels: 32,640
+* Max Number of Pixels per Port: 680 (4 universes)
+* Max Pixels: 32,640 (64 universes)
 
 ### Local SPI
 
